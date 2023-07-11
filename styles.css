@@ -139,8 +139,8 @@ main {
 
 .deal-container {
     display: flex;
+    width: 100%;
     align-items: center;
-    padding: 30px 30px 0px 150px;
     justify-content: space-around;
     background-color: #fef6f8;
     margin-top: 100px;
@@ -186,14 +186,16 @@ main {
 .custom-gifts-container {
     display: flex;
     justify-content: space-around;
+    gap: 10px;
 }
 
 .custom-gifts {
-    height: 310px;
+    height: 280px;
     width: 300px;
     text-align: center;
+    align-items: center;
     box-shadow: 15px 15px 15px floralwhite;
-    border: 2px solid #fef6f8;
+    border: 1px solid #ffcff1;
     border-radius: 12px;
     padding: 12px;
 }
