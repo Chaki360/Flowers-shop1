@@ -168,6 +168,8 @@ main {
 }
 
 .instagram-container {
+    width: 100%;
+    height: 50vh;
     display: flex;
     justify-content: center;
     gap: 15px;
