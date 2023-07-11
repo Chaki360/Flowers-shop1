@@ -135,6 +135,21 @@ main {
     color: black;
 }
 
+/* support section styles */
+
+.support-container {
+    margin-top: 100px;
+    width: 100%;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+
+}
+
 /* hot deal styles */
 
 .deal-container {
